@@ -1,1 +1,62 @@
 some algorithms written by java
+
+heapsort.java
+isPowerOfTwo.java
+learn0907.java//read file from disk
+mergesort.java
+Password.java////in local file
+quicksort.java
+StringTocharArray.java
+t0918.java//quick sort
+test0820.java//test int value of '5' and "5"
+test0823.java//add binary string
+test0824.java//test trim() and split()
+test0825.java//rotate linked list
+test0825a.java//needle in haystack, Python_v_2.7.5 has a better version
+test0825b.java//minimum distance of two strings
+test0825c.java//whether word in board
+test0825d.java//sort three colors
+test0825e.java//clim stairs
+test0826a.java//number to letters combination
+test0828.java//atoi, parse out integer in a string
+test0828a.java//convert one string to n rows
+test0828b.java//longest parlindrome substring, worth to read
+test0829.java//test ~(-1), return 0
+test0829a.java//longest substring no repeats
+test0829b.java//find median of two sorted array brutely
+test0830.java//insertion sort
+test0830a.java//max sum of subarray clrs
+test0830b.java//max benefit
+test0831.java//heap sort
+test0831b.java//quick sort with randomization
+test0903.java//reverse sub linked list
+test0903c.java//subset
+test0903d.java//subset with duplication
+test0904.java//merge k linked list
+test0904b.java//mirror a binary tree
+test0904c.java//max path sum
+test0904d.java//minimum triangle path sum
+test0904e.java//climb ways
+test0904f.java//max sub array, brute
+test0907.java//test thread
+test0907a.java//search board...
+test0907b.java//minimum number of cut to partition a string
+test0907d.java//is palindrome
+test0908.java//all permutations
+test0908a.java//dp cut rod
+test0908b.java//binary search
+test0908c.java//rotate binary search
+test0908d.java//quick sort
+test0908e.java//binary tree, inorder traverse, iterate with stack
+test0908f.java//binary tree, inorder traverse, recursion
+test0908g.java//binary tree, postorder traverse, recursion
+test0908h.java//binary tree, preorder traverse, recursion
+test0908i.java//binary tree, preorder traverse, iterate with stack
+test0908j.java//binary tree, postorder traverse, iterate with stack
+test0910.java//is substring, brute
+test0910a.java//create linked list from array using a customed iterator
+testequals.java//test equal of prime type and object
+TreeNode.java
+TreeString.java
+
+cc means crack code problem
